@@ -1,3 +1,6 @@
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 # HelloWorld.NetCore
 Orleans HelloWorld sample targeting .NET Core
 

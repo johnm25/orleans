@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GainsStorageTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
